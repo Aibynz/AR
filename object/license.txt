@@ -1,11 +1,11 @@
 Model Information:
-* title:	WhatsApp Logo
-* source:	https://sketchfab.com/3d-models/whatsapp-logo-367d7ca4c01540bc91bd334d91ac3283
-* author:	LumiStudios (https://sketchfab.com/LumiStudios)
+* title:	KTM 1290 Super Duke (Low Poly and Stylized)
+* source:	https://sketchfab.com/3d-models/ktm-1290-super-duke-low-poly-and-stylized-f6f6dd2cfe5a4c50aa7863aed8d74a47
+* author:	Bandit.545 (https://sketchfab.com/Bandit.545)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "WhatsApp Logo" (https://sketchfab.com/3d-models/whatsapp-logo-367d7ca4c01540bc91bd334d91ac3283) by LumiStudios (https://sketchfab.com/LumiStudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "KTM 1290 Super Duke (Low Poly and Stylized)" (https://sketchfab.com/3d-models/ktm-1290-super-duke-low-poly-and-stylized-f6f6dd2cfe5a4c50aa7863aed8d74a47) by Bandit.545 (https://sketchfab.com/Bandit.545) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
