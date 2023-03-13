@@ -1,6 +1,6 @@
 Model Information:
-* title:	KTM 1290 Super Duke (Low Poly and Stylized)
-* source:	https://sketchfab.com/3d-models/ktm-1290-super-duke-low-poly-and-stylized-f6f6dd2cfe5a4c50aa7863aed8d74a47
+* title:	BMW E9 (Low poly and Stylized)
+* source:	https://sketchfab.com/3d-models/bmw-e9-low-poly-and-stylized-b801202a919f40efabd6f816ab5f5fa9
 * author:	Bandit.545 (https://sketchfab.com/Bandit.545)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "KTM 1290 Super Duke (Low Poly and Stylized)" (https://sketchfab.com/3d-models/ktm-1290-super-duke-low-poly-and-stylized-f6f6dd2cfe5a4c50aa7863aed8d74a47) by Bandit.545 (https://sketchfab.com/Bandit.545) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "BMW E9 (Low poly and Stylized)" (https://sketchfab.com/3d-models/bmw-e9-low-poly-and-stylized-b801202a919f40efabd6f816ab5f5fa9) by Bandit.545 (https://sketchfab.com/Bandit.545) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
